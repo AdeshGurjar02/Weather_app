@@ -15,4 +15,8 @@ This is a simple weather app that provides current weather information for any c
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-app.git
+## Contact
+Email: codergurjar02@gmail.com
+GitHub: AdeshGurjar02
+LinkedIn: Adesh Gurjar
   
